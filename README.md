@@ -82,3 +82,7 @@ Watch what happens when you change the state of your task (complete/not complete
   * When in 'edit' mode, the main label should be hidden and the input should show
   * The edit input should look seamless to the label 
   * When the user presses enter, update the title of the model and re-render the view
+
+## Copyright
+
+© DevMountain LLC, 2016. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
